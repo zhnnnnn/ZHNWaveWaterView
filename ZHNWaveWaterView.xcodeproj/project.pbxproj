@@ -14,6 +14,7 @@
 		CD4830471CC755CB00B79191 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD4830451CC755CB00B79191 /* LaunchScreen.storyboard */; };
 		CD4830521CC755CB00B79191 /* ZHNWaveWaterViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD4830511CC755CB00B79191 /* ZHNWaveWaterViewTests.swift */; };
 		CD48305D1CC755CB00B79191 /* ZHNWaveWaterViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD48305C1CC755CB00B79191 /* ZHNWaveWaterViewUITests.swift */; };
+		CD48306B1CC7561B00B79191 /* ZHNwaveWaterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD48306A1CC7561B00B79191 /* ZHNwaveWaterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		CD4830581CC755CB00B79191 /* ZHNWaveWaterViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZHNWaveWaterViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD48305C1CC755CB00B79191 /* ZHNWaveWaterViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZHNWaveWaterViewUITests.swift; sourceTree = "<group>"; };
 		CD48305E1CC755CB00B79191 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD48306A1CC7561B00B79191 /* ZHNwaveWaterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZHNwaveWaterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				CD48303C1CC755CB00B79191 /* AppDelegate.swift */,
 				CD48303E1CC755CB00B79191 /* ViewController.swift */,
+				CD48306A1CC7561B00B79191 /* ZHNwaveWaterView.swift */,
 				CD4830401CC755CB00B79191 /* Main.storyboard */,
 				CD4830431CC755CB00B79191 /* Assets.xcassets */,
 				CD4830451CC755CB00B79191 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				CD48303F1CC755CB00B79191 /* ViewController.swift in Sources */,
 				CD48303D1CC755CB00B79191 /* AppDelegate.swift in Sources */,
+				CD48306B1CC7561B00B79191 /* ZHNwaveWaterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
